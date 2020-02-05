@@ -1,0 +1,25 @@
+{
+    "name": "chandrantwins/yii2-ezoom",
+    "description": "Elevatezoom widget for Yii2",
+    "keywords": ["yii2", "elevatezoom", "widget", "gallery","image"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "support": {
+        "source": "https://github.com/chandrantwins/yii2-ezoom",
+        "issues": "https://github.com/chandrantwins/yii2-ezoom/issues"
+    },
+    "authors": [
+        {
+            "name": "Chandran Nepolean",
+            "homepage": "https://github.com/chandrantwins/"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"       
+    },
+    "autoload": {
+        "psr-4": {
+            "chandrantwins\\ezoom\\": ""
+        }
+    }
+}
