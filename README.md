@@ -15,7 +15,7 @@ php composer.phar require "chandrantwins/yii2-ezoom" "dev-master"
 or add
 
 ```json
-"chandrantwins/yii2-ezoom" : "*"
+"chandrantwins/yii2-ezoom" : "dev-master"
 ```
 to the require section of your application's `composer.json` file.
 
