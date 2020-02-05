@@ -9,7 +9,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require "chandrantwins/yii2-ezoom" "*"
+php composer.phar require "chandrantwins/yii2-ezoom" "dev-master"
 ```
 
 or add
